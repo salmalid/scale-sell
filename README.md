@@ -157,7 +157,7 @@ For support, email emadilsalma@gmail.com.
 
 <div align="center">
 
-**Made with ❤️ for SuperMarché Maroc**
+**Made with ❤️ for a Computer Vision class Project at ENSA Eljadida**
 
 ⭐ Star this repo if you find it helpful!
 
