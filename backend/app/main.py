@@ -29,8 +29,7 @@ logger = logging.getLogger(__name__)
 # GEMINI API CONFIGURATION
 # =============================================================================
 
-#GEMINI_API_KEY = "AIzaSyAwpXBu7YDcK0s-1h_UmNj5yfyIyjFi1Sc"
-GEMINI_API_KEY = "AIzaSyCfMFZHNistNAuGMnRaTabW0x9ShUeR-NM"
+#GEMINI_API_KEY = "use ur own api"
 genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = genai.GenerativeModel('gemini-2.5-flash')
 
