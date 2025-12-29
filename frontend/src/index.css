@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Supermarket Theme - Fresh & Vibrant Colors */
+
+@layer base {
+  :root {
+    --background: 45 100% 98%;
+    --foreground: 30 10% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 30 10% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 10% 15%;
+
+    --primary: 142 71% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 32 95% 55%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 45 30% 90%;
+    --muted-foreground: 30 10% 40%;
+
+    --accent: 48 96% 53%;
+    --accent-foreground: 30 10% 15%;
+
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 45 20% 85%;
+    --input: 45 20% 85%;
+    --ring: 142 71% 45%;
+
+    --radius: 1rem;
+
+    /* Custom supermarket colors */
+    --fruit-red: 0 85% 60%;
+    --fruit-orange: 25 95% 55%;
+    --fruit-yellow: 45 100% 55%;
+    --fruit-green: 142 70% 50%;
+    --fruit-purple: 280 60% 55%;
+
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 30 10% 15%;
+    --sidebar-primary: 142 71% 45%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 32 95% 55%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 45 20% 85%;
+    --sidebar-ring: 142 71% 45%;
+
+    --chart-1: 0 85% 60%;
+    --chart-2: 25 95% 55%;
+    --chart-3: 45 100% 55%;
+    --chart-4: 142 70% 50%;
+    --chart-5: 280 60% 55%;
+
+    --sidebar: 0 0% 100%;
+
+    --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif;
+    --font-display: 'Fredoka', ui-sans-serif, system-ui, sans-serif;
+
+    --shadow-2xs: 0 1px 3px 0px hsl(0 0% 0% / 0.05);
+    --shadow-xs: 0 1px 3px 0px hsl(0 0% 0% / 0.05);
+    --shadow-sm: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 1px 2px -1px hsl(0 0% 0% / 0.1);
+    --shadow: 0 2px 4px 0px hsl(0 0% 0% / 0.1), 0 2px 4px -1px hsl(0 0% 0% / 0.1);
+    --shadow-md: 0 4px 6px 0px hsl(0 0% 0% / 0.1), 0 4px 6px -1px hsl(0 0% 0% / 0.1);
+    --shadow-lg: 0 8px 12px 0px hsl(0 0% 0% / 0.1), 0 6px 8px -1px hsl(0 0% 0% / 0.1);
+    --shadow-xl: 0 12px 20px 0px hsl(0 0% 0% / 0.1), 0 10px 12px -1px hsl(0 0% 0% / 0.1);
+    --shadow-2xl: 0 16px 30px 0px hsl(0 0% 0% / 0.15);
+
+    --tracking-normal: 0em;
+    --spacing: 0.25rem;
+  }
+
+  .dark {
+    --background: 30 15% 10%;
+    --foreground: 45 30% 95%;
+
+    --card: 30 15% 15%;
+    --card-foreground: 45 30% 95%;
+
+    --popover: 30 15% 18%;
+    --popover-foreground: 45 30% 95%;
+
+    --primary: 142 65% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 32 90% 50%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 30 15% 25%;
+    --muted-foreground: 45 30% 70%;
+
+    --accent: 48 90% 50%;
+    --accent-foreground: 30 10% 15%;
+
+    --destructive: 0 80% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 30 15% 25%;
+    --input: 30 15% 25%;
+    --ring: 142 65% 50%;
+
+    --sidebar-background: 30 15% 12%;
+    --sidebar-foreground: 45 30% 95%;
+    --sidebar-primary: 142 65% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 32 90% 50%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 30 15% 25%;
+    --sidebar-ring: 142 65% 50%;
+    
+    --chart-1: 0 80% 65%;
+    --chart-2: 25 90% 60%;
+    --chart-3: 45 95% 60%;
+    --chart-4: 142 65% 55%;
+    --chart-5: 280 55% 60%;
+    
+    --sidebar: 30 15% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .gradient-supermarket {
+    background: linear-gradient(
+      135deg,
+      hsl(var(--fruit-green)) 0%,
+      hsl(var(--primary)) 50%,
+      hsl(var(--fruit-yellow)) 100%
+    );
+  }
+  
+  .gradient-fresh {
+    background: linear-gradient(
+      to right,
+      hsl(var(--fruit-red)),
+      hsl(var(--fruit-orange)),
+      hsl(var(--fruit-yellow)),
+      hsl(var(--fruit-green))
+    );
+  }
+  
+  .font-display {
+    font-family: var(--font-display);
+  }
+}

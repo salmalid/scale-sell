@@ -1,0 +1,1738 @@
+{
+    "Acai": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.2,
+        "avg_weight_grams": 1.5,
+        "size_range": [1.0, 1.5],
+        "form_factor": 0.85
+    },
+    "Ackee": {
+        "shape": "pear_shaped",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 100,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.75
+    },
+    "Acorn Squash": {
+        "shape": "oval_ribbed",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 700,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.70
+    },
+    "Almond": {
+        "shape": "oval_nut",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 1.2,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.80
+    },
+    "Ambrosia Melon": {
+        "shape": "spherical",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 2000,
+        "size_range": [12.0, 18.0],
+        "form_factor": 0.90
+    },
+    "Apple": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.5,
+        "avg_weight_grams": 180,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Apricot": {
+        "shape": "spherical",
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 50,
+        "size_range": [3.5, 5.0],
+        "form_factor": 0.85
+    },
+    "Arrowroot": {
+        "shape": "cylindrical_root",
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 100,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.65
+    },
+    "Artichoke": {
+        "shape": "conical",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 400,
+        "size_range": [8.0, 13.0],
+        "form_factor": 0.60
+    },
+    "Arugula": {
+        "shape": "leafy",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 50,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.30
+    },
+    "Asian Pear": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 250,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Asparagus": {
+        "shape": "spear",
+        "avg_diameter_cm": 1.5,
+        "avg_length_cm": 20.0,
+        "avg_weight_grams": 25,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.40
+    },
+    "Atemoya": {
+        "shape": "heart_shaped",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 300,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.75
+    },
+    "Avocado": {
+        "shape": "pear_shaped",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 250,
+        "size_range": [8.0, 13.0],
+        "form_factor": 0.80
+    },
+    "Bamboo Shoot": {
+        "shape": "conical",
+        "avg_diameter_cm": 5.0,
+        "avg_length_cm": 15.0,
+        "avg_weight_grams": 200,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.60
+    },
+    "Banana": {
+        "shape": "curved_cylindrical",
+        "avg_length_cm": 18.0,
+        "avg_diameter_cm": 3.5,
+        "avg_weight_grams": 120,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.70
+    },
+    "Basil": {
+        "shape": "leafy",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 15,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.25
+    },
+    "Bean Sprout": {
+        "shape": "thin_cylindrical",
+        "avg_length_cm": 8.0,
+        "avg_weight_grams": 5,
+        "size_range": [5.0, 12.0],
+        "form_factor": 0.30
+    },
+    "Beetroot": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 200,
+        "size_range": [5.0, 10.0],
+        "form_factor": 0.85
+    },
+    "Belgian Endive": {
+        "shape": "elongated",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 100,
+        "size_range": [12.0, 18.0],
+        "form_factor": 0.60
+    },
+    "Bell Pepper": {
+        "shape": "bell_shaped",
+        "avg_height_cm": 10.0,
+        "avg_width_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.65
+    },
+    "Bitter Melon": {
+        "shape": "elongated_warty",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 30.0],
+        "form_factor": 0.60
+    },
+    "Black Currant": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 1.0,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Black Salsify": {
+        "shape": "long_root",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 150,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.55
+    },
+    "Blackberry": {
+        "shape": "cluster_spherical",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [1.5, 3.0],
+        "form_factor": 0.80
+    },
+    "Blood Orange": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Blueberry": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 0.5,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Bok Choy": {
+        "shape": "leafy_stalk",
+        "avg_height_cm": 20.0,
+        "avg_width_cm": 15.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.40
+    },
+    "Boniato": {
+        "shape": "irregular_root",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 500,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.70
+    },
+    "Boysenberry": {
+        "shape": "cluster_spherical",
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 8,
+        "size_range": [2.0, 3.5],
+        "form_factor": 0.75
+    },
+    "Brazil Nut": {
+        "shape": "triangular_nut",
+        "avg_length_cm": 4.0,
+        "avg_weight_grams": 5,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.60
+    },
+    "Breadfruit": {
+        "shape": "spherical",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 2000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.85
+    },
+    "Broad Bean": {
+        "shape": "pod",
+        "avg_length_cm": 10.0,
+        "avg_weight_grams": 30,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.50
+    },
+    "Broccoli": {
+        "shape": "tree_shaped",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 400,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.45
+    },
+    "Broccolini": {
+        "shape": "elongated",
+        "avg_length_cm": 20.0,
+        "avg_weight_grams": 100,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.40
+    },
+    "Brussels Sprout": {
+        "shape": "mini_cabbage",
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 15,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.85
+    },
+    "Burdock Root": {
+        "shape": "long_root",
+        "avg_length_cm": 60.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 200,
+        "size_range": [40.0, 80.0],
+        "form_factor": 0.50
+    },
+    "Butternut Squash": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 1500,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.70
+    },
+    "Cabbage": {
+        "shape": "spherical",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 1000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.80
+    },
+    "Cactus Pear": {
+        "shape": "oval",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 100,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.75
+    },
+    "Canary Melon": {
+        "shape": "oval",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 2000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.80
+    },
+    "Cantaloupe": {
+        "shape": "spherical",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1500,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.90
+    },
+    "Carambola": {
+        "shape": "star_cross",
+        "avg_length_cm": 10.0,
+        "avg_width_cm": 5.0,
+        "avg_weight_grams": 150,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.65
+    },
+    "Cardoon": {
+        "shape": "stalks",
+        "avg_length_cm": 50.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 500,
+        "size_range": [40.0, 60.0],
+        "form_factor": 0.40
+    },
+    "Carrot": {
+        "shape": "conical_root",
+        "avg_length_cm": 18.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 70,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.60
+    },
+    "Cashew": {
+        "shape": "kidney_shaped",
+        "avg_length_cm": 3.0,
+        "avg_weight_grams": 2,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.70
+    },
+    "Cassava": {
+        "shape": "cylindrical_root",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 800,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.65
+    },
+    "Cauliflower": {
+        "shape": "curd_cluster",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 800,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.60
+    },
+    "Celeriac": {
+        "shape": "irregular_root",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 500,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.70
+    },
+    "Celery": {
+        "shape": "stalks",
+        "avg_length_cm": 30.0,
+        "avg_weight_grams": 400,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.35
+    },
+    "Chard": {
+        "shape": "leafy",
+        "avg_length_cm": 30.0,
+        "avg_weight_grams": 50,
+        "size_range": [20.0, 40.0],
+        "form_factor": 0.25
+    },
+    "Chayote": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.75
+    },
+    "Cherimoya": {
+        "shape": "heart_shaped",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.70
+    },
+    "Cherry": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 8,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.95
+    },
+    "Cherry Tomato": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 10,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.95
+    },
+    "Chestnut": {
+        "shape": "flattened_spherical",
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 10,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.80
+    },
+    "Chickpea": {
+        "shape": "spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 0.5,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.85
+    },
+    "Chicory": {
+        "shape": "leafy",
+        "avg_length_cm": 20.0,
+        "avg_weight_grams": 100,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.35
+    },
+    "Chili Pepper": {
+        "shape": "tapered",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 10,
+        "size_range": [5.0, 15.0],
+        "form_factor": 0.55
+    },
+    "Chive": {
+        "shape": "hollow_cylindrical",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 0.3,
+        "avg_weight_grams": 5,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.20
+    },
+    "Cilantro": {
+        "shape": "leafy",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 30,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.25
+    },
+    "Clementine": {
+        "shape": "spherical",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 80,
+        "size_range": [5.0, 7.0],
+        "form_factor": 0.95
+    },
+    "Cloudberry": {
+        "shape": "cluster_spherical",
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 3,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.80
+    },
+    "Coconut": {
+        "shape": "spherical",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 1200,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.95
+    },
+    "Collard Green": {
+        "shape": "broad_leaf",
+        "avg_length_cm": 30.0,
+        "avg_width_cm": 20.0,
+        "avg_weight_grams": 100,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.30
+    },
+    "Corn": {
+        "shape": "cylindrical_cob",
+        "avg_length_cm": 18.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 22.0],
+        "form_factor": 0.70
+    },
+    "Cranberry": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 2,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.85
+    },
+    "Crenshaw Melon": {
+        "shape": "oval",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 2500,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.80
+    },
+    "Cucumber": {
+        "shape": "cylindrical",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    },
+    "Currant": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 1,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Custard Apple": {
+        "shape": "heart_shaped",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 350,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.75
+    },
+    "Daikon": {
+        "shape": "cylindrical_root",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 500,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.70
+    },
+    "Date": {
+        "shape": "oval",
+        "avg_length_cm": 4.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 10,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.70
+    },
+    "Delicata Squash": {
+        "shape": "cylindrical",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 500,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.75
+    },
+    "Dill": {
+        "shape": "feathery",
+        "avg_height_cm": 40.0,
+        "avg_weight_grams": 20,
+        "size_range": [30.0, 50.0],
+        "form_factor": 0.20
+    },
+    "Dragon Fruit": {
+        "shape": "oval",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 350,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.70
+    },
+    "Durian": {
+        "shape": "oval_spiky",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 18.0,
+        "avg_weight_grams": 2000,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.80
+    },
+    "Eddoe": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.85
+    },
+    "Eggplant": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 400,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.70
+    },
+    "Endive": {
+        "shape": "curly_leaf",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 150,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.40
+    },
+    "Enoki Mushroom": {
+        "shape": "long_stemmed",
+        "avg_length_cm": 10.0,
+        "avg_weight_grams": 20,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.25
+    },
+    "Escarole": {
+        "shape": "broad_leaf",
+        "avg_diameter_cm": 25.0,
+        "avg_weight_grams": 200,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.35
+    },
+    "Fava Bean": {
+        "shape": "large_bean",
+        "avg_length_cm": 2.5,
+        "avg_weight_grams": 2,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.70
+    },
+    "Feijoa": {
+        "shape": "egg_shaped",
+        "avg_length_cm": 6.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 50,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.75
+    },
+    "Fennel": {
+        "shape": "bulb_stalks",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 300,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.60
+    },
+    "Fig": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 5.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 50,
+        "size_range": [4.0, 7.0],
+        "form_factor": 0.80
+    },
+    "Finger Lime": {
+        "shape": "cylindrical",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 20,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.70
+    },
+    "Galandal": {
+        "shape": "spherical",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 100,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.85
+    },
+    "Galia Melon": {
+        "shape": "spherical",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 1000,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.90
+    },
+    "Garlic": {
+        "shape": "bulb_cloves",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 50,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.80
+    },
+    "Ginger": {
+        "shape": "irregular_rhizome",
+        "avg_length_cm": 10.0,
+        "avg_weight_grams": 100,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.50
+    },
+    "Goji Berry": {
+        "shape": "small_elongated",
+        "avg_length_cm": 2.0,
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 1,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.65
+    },
+    "Goldenberry": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.85
+    },
+    "Gooseberry": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 8,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.90
+    },
+    "Grape": {
+        "shape": "spherical",
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 5,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.95
+    },
+    "Grapefruit": {
+        "shape": "spherical",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 400,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.95
+    },
+    "Green Bean": {
+        "shape": "long_pod",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 10,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.40
+    },
+    "Green Onion": {
+        "shape": "hollow_cylindrical",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 25,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.30
+    },
+    "Guava": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 200,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Habanero": {
+        "shape": "lantern_shaped",
+        "avg_length_cm": 5.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 10,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.60
+    },
+    "Hazelnut": {
+        "shape": "spherical",
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 2,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.90
+    },
+    "Honeydew Melon": {
+        "shape": "spherical",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1800,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.90
+    },
+    "Horseradish": {
+        "shape": "long_root",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 200,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.60
+    },
+    "Hubbard Squash": {
+        "shape": "irregular",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 3000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    },
+    "Huckleberry": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 0.8,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Jackfruit": {
+        "shape": "large_oval",
+        "avg_length_cm": 40.0,
+        "avg_diameter_cm": 25.0,
+        "avg_weight_grams": 10000,
+        "size_range": [30.0, 50.0],
+        "form_factor": 0.80
+    },
+    "Jalapeno": {
+        "shape": "tapered",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 20,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.65
+    },
+    "Japanese Plum": {
+        "shape": "spherical",
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 80,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.90
+    },
+    "Jicama": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1000,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.85
+    },
+    "Jujube": {
+        "shape": "oval",
+        "avg_length_cm": 3.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 15,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.75
+    },
+    "Juniper Berry": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 0.8,
+        "avg_weight_grams": 0.3,
+        "size_range": [0.6, 1.0],
+        "form_factor": 0.90
+    },
+    "Kale": {
+        "shape": "curly_leaf",
+        "avg_length_cm": 25.0,
+        "avg_weight_grams": 100,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.30
+    },
+    "Kiwano": {
+        "shape": "oval_spiky",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 200,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.70
+    },
+    "Kiwi": {
+        "shape": "oval",
+        "avg_length_cm": 6.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 70,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.80
+    },
+    "Kohlrabi": {
+        "shape": "spherical_stem",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 400,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.85
+    },
+    "Kumquat": {
+        "shape": "small_oval",
+        "avg_length_cm": 4.0,
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 15,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.80
+    },
+    "Leek": {
+        "shape": "cylindrical_stalk",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 200,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.50
+    },
+    "Lemon": {
+        "shape": "oval",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 70,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.85
+    },
+    "Lemongrass": {
+        "shape": "long_stalks",
+        "avg_length_cm": 50.0,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 50,
+        "size_range": [40.0, 60.0],
+        "form_factor": 0.35
+    },
+    "Lentil": {
+        "shape": "lens_shaped",
+        "avg_diameter_cm": 0.5,
+        "avg_weight_grams": 0.1,
+        "size_range": [0.4, 0.6],
+        "form_factor": 0.60
+    },
+    "Lettuce": {
+        "shape": "leafy_head",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.35
+    },
+    "Lima Bean": {
+        "shape": "flat_bean",
+        "avg_length_cm": 3.0,
+        "avg_width_cm": 2.0,
+        "avg_weight_grams": 3,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.65
+    },
+    "Lime": {
+        "shape": "spherical",
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 50,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.95
+    },
+    "Longan": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 3,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.90
+    },
+    "Loquat": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 5.0,
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 40,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.80
+    },
+    "Lotus Root": {
+        "shape": "cylindrical_sections",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.60
+    },
+    "Lychee": {
+        "shape": "spherical",
+        "avg_diameter_cm": 3.5,
+        "avg_weight_grams": 20,
+        "size_range": [3.0, 4.0],
+        "form_factor": 0.95
+    },
+    "Macadamia": {
+        "shape": "spherical",
+        "avg_diameter_cm": 2.5,
+        "avg_weight_grams": 3,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.95
+    },
+    "Mache": {
+        "shape": "small_rosette",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 20,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.30
+    },
+    "Mandarin": {
+        "shape": "spherical",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 80,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.95
+    },
+    "Mango": {
+        "shape": "oval",
+        "avg_length_cm": 15.0,
+        "avg_width_cm": 9.0,
+        "avg_weight_grams": 300,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.70
+    },
+    "Mangosteen": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 100,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Marionberry": {
+        "shape": "cluster_spherical",
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 10,
+        "size_range": [2.5, 3.5],
+        "form_factor": 0.75
+    },
+    "Melon": {
+        "shape": "spherical",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1500,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.90
+    },
+    "Mint": {
+        "shape": "leafy_stems",
+        "avg_height_cm": 30.0,
+        "avg_weight_grams": 25,
+        "size_range": [20.0, 40.0],
+        "form_factor": 0.20
+    },
+    "Morel Mushroom": {
+        "shape": "honeycomb",
+        "avg_height_cm": 10.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 30,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.40
+    },
+    "Mulberry": {
+        "shape": "small_cluster",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.80
+    },
+    "Mushroom": {
+        "shape": "cap_stem",
+        "avg_cap_diameter_cm": 5.0,
+        "avg_weight_grams": 20,
+        "size_range": [3.0, 8.0],
+        "form_factor": 0.60
+    },
+    "Mustard Green": {
+        "shape": "leafy",
+        "avg_length_cm": 25.0,
+        "avg_weight_grams": 50,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.25
+    },
+    "Napa Cabbage": {
+        "shape": "elongated",
+        "avg_length_cm": 30.0,
+        "avg_width_cm": 15.0,
+        "avg_weight_grams": 800,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.50
+    },
+    "Nectarine": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Okra": {
+        "shape": "tapered_pod",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 15,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.55
+    },
+    "Olive": {
+        "shape": "oval",
+        "avg_length_cm": 2.5,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 5,
+        "size_range": [2.0, 3.0],
+        "form_factor": 0.80
+    },
+    "Onion": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Orange": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 180,
+        "size_range": [7.0, 10.0],
+        "form_factor": 0.95
+    },
+    "Oregano": {
+        "shape": "small_leafy",
+        "avg_height_cm": 30.0,
+        "avg_weight_grams": 20,
+        "size_range": [20.0, 40.0],
+        "form_factor": 0.25
+    },
+    "Oyster Mushroom": {
+        "shape": "fan_shaped",
+        "avg_width_cm": 10.0,
+        "avg_weight_grams": 50,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.35
+    },
+    "Pak Choi": {
+        "shape": "stalk_leaf",
+        "avg_height_cm": 20.0,
+        "avg_weight_grams": 250,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.45
+    },
+    "Papaya": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 500,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    },
+    "Parsley": {
+        "shape": "curly_leaf",
+        "avg_height_cm": 25.0,
+        "avg_weight_grams": 15,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.20
+    },
+    "Parsnip": {
+        "shape": "tapered_root",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 200,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.60
+    },
+    "Passion Fruit": {
+        "shape": "spherical",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 50,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.90
+    },
+    "Pawpaw": {
+        "shape": "mango_shaped",
+        "avg_length_cm": 12.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.70
+    },
+    "Pea": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 0.8,
+        "avg_weight_grams": 0.3,
+        "size_range": [0.6, 1.0],
+        "form_factor": 0.95
+    },
+    "Peach": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Peanut": {
+        "shape": "pod",
+        "avg_length_cm": 3.0,
+        "avg_weight_grams": 1,
+        "size_range": [2.0, 4.0],
+        "form_factor": 0.60
+    },
+    "Pear": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 180,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.80
+    },
+    "Pecan": {
+        "shape": "elongated_nut",
+        "avg_length_cm": 4.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.65
+    },
+    "Pepino": {
+        "shape": "egg_shaped",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 200,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.75
+    },
+    "Persimmon": {
+        "shape": "tomato_shaped",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 200,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Physalis": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 5,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.85
+    },
+    "Pine Nut": {
+        "shape": "small_elongated",
+        "avg_length_cm": 1.5,
+        "avg_weight_grams": 0.2,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.60
+    },
+    "Pineapple": {
+        "shape": "cylindrical",
+        "avg_height_cm": 20.0,
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 1000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    },
+    "Pistachio": {
+        "shape": "oval_nut",
+        "avg_length_cm": 2.0,
+        "avg_weight_grams": 1,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.70
+    },
+    "Pitaya": {
+        "shape": "oval",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 350,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.70
+    },
+    "Plantain": {
+        "shape": "large_banana",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 300,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.70
+    },
+    "Plum": {
+        "shape": "spherical",
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 80,
+        "size_range": [5.0, 8.0],
+        "form_factor": 0.95
+    },
+    "Pomegranate": {
+        "shape": "spherical",
+        "avg_diameter_cm": 9.0,
+        "avg_weight_grams": 250,
+        "size_range": [7.0, 12.0],
+        "form_factor": 0.95
+    },
+    "Pomelo": {
+        "shape": "large_spherical",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1000,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.90
+    },
+    "Portobello Mushroom": {
+        "shape": "large_cap",
+        "avg_cap_diameter_cm": 15.0,
+        "avg_weight_grams": 100,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.60
+    },
+    "Potato": {
+        "shape": "irregular_oval",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 150,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.75
+    },
+    "Prickly Pear": {
+        "shape": "oval_pad",
+        "avg_length_cm": 15.0,
+        "avg_width_cm": 10.0,
+        "avg_weight_grams": 200,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.65
+    },
+    "Pumpkin": {
+        "shape": "spherical",
+        "avg_diameter_cm": 25.0,
+        "avg_weight_grams": 4000,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.85
+    },
+    "Quince": {
+        "shape": "pear_shaped",
+        "avg_length_cm": 12.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.75
+    },
+    "Radicchio": {
+        "shape": "small_head",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 200,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.60
+    },
+    "Radish": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 20,
+        "size_range": [2.0, 5.0],
+        "form_factor": 0.90
+    },
+    "Raisin": {
+        "shape": "wrinkled_oval",
+        "avg_length_cm": 1.5,
+        "avg_weight_grams": 0.5,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.60
+    },
+    "Rambutan": {
+        "shape": "spherical_hairy",
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 30,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.85
+    },
+    "Raspberry": {
+        "shape": "cluster_dome",
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [1.5, 2.5],
+        "form_factor": 0.75
+    },
+    "Red Cabbage": {
+        "shape": "spherical",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 1000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.80
+    },
+    "Red Currant": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 1,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Red Onion": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Rhubarb": {
+        "shape": "stalks",
+        "avg_length_cm": 40.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 200,
+        "size_range": [30.0, 50.0],
+        "form_factor": 0.50
+    },
+    "Romaine Lettuce": {
+        "shape": "elongated_head",
+        "avg_length_cm": 25.0,
+        "avg_width_cm": 10.0,
+        "avg_weight_grams": 400,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.40
+    },
+    "Romanesco": {
+        "shape": "fractal",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 500,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.55
+    },
+    "Rosemary": {
+        "shape": "needle_leaves",
+        "avg_height_cm": 50.0,
+        "avg_weight_grams": 50,
+        "size_range": [40.0, 60.0],
+        "form_factor": 0.30
+    },
+    "Rutabaga": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 500,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.85
+    },
+    "Sage": {
+        "shape": "fuzzy_leaves",
+        "avg_height_cm": 40.0,
+        "avg_weight_grams": 40,
+        "size_range": [30.0, 50.0],
+        "form_factor": 0.25
+    },
+    "Salsify": {
+        "shape": "long_root",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 150,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.55
+    },
+    "Sapodilla": {
+        "shape": "oval",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.80
+    },
+    "Sapote": {
+        "shape": "spherical",
+        "avg_diameter_cm": 10.0,
+        "avg_weight_grams": 300,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.85
+    },
+    "Savoy Cabbage": {
+        "shape": "crinkly_spherical",
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 1000,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    },
+    "Scallion": {
+        "shape": "thin_stalk",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 20,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.30
+    },
+    "Shallot": {
+        "shape": "small_bulb",
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 30,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.85
+    },
+    "Shiitake Mushroom": {
+        "shape": "umbrella_cap",
+        "avg_cap_diameter_cm": 8.0,
+        "avg_weight_grams": 30,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.55
+    },
+    "Snow Pea": {
+        "shape": "flat_pod",
+        "avg_length_cm": 8.0,
+        "avg_width_cm": 2.0,
+        "avg_weight_grams": 5,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.40
+    },
+    "Sorrel": {
+        "shape": "arrowhead_leaves",
+        "avg_length_cm": 15.0,
+        "avg_weight_grams": 20,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.25
+    },
+    "Soybean": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 0.7,
+        "avg_weight_grams": 0.2,
+        "size_range": [0.5, 1.0],
+        "form_factor": 0.85
+    },
+    "Spaghetti Squash": {
+        "shape": "oval",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 1500,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.75
+    },
+    "Spinach": {
+        "shape": "leafy",
+        "avg_length_cm": 20.0,
+        "avg_weight_grams": 50,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.25
+    },
+    "Spring Onion": {
+        "shape": "thin_bulb",
+        "avg_length_cm": 25.0,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 25,
+        "size_range": [20.0, 30.0],
+        "form_factor": 0.30
+    },
+    "Star Fruit": {
+        "shape": "star_cross",
+        "avg_length_cm": 10.0,
+        "avg_width_cm": 6.0,
+        "avg_weight_grams": 150,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.60
+    },
+    "Strawberry": {
+        "shape": "heart_shaped",
+        "avg_length_cm": 4.0,
+        "avg_width_cm": 3.0,
+        "avg_weight_grams": 20,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.70
+    },
+    "Sugar Snap Pea": {
+        "shape": "plump_pod",
+        "avg_length_cm": 7.0,
+        "avg_diameter_cm": 1.5,
+        "avg_weight_grams": 8,
+        "size_range": [5.0, 9.0],
+        "form_factor": 0.50
+    },
+    "Summer Squash": {
+        "shape": "cylindrical",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.70
+    },
+    "Sunchoke": {
+        "shape": "irregular_root",
+        "avg_length_cm": 10.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 100,
+        "size_range": [8.0, 15.0],
+        "form_factor": 0.60
+    },
+    "Sunflower Seed": {
+        "shape": "teardrop",
+        "avg_length_cm": 1.5,
+        "avg_weight_grams": 0.05,
+        "size_range": [1.0, 2.0],
+        "form_factor": 0.60
+    },
+    "Sweet Pepper": {
+        "shape": "bell_shaped",
+        "avg_height_cm": 10.0,
+        "avg_width_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [8.0, 12.0],
+        "form_factor": 0.65
+    },
+    "Sweet Potato": {
+        "shape": "irregular_root",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 300,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.70
+    },
+    "Swiss Chard": {
+        "shape": "large_leaf",
+        "avg_length_cm": 30.0,
+        "avg_weight_grams": 100,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.25
+    },
+    "Tamarillo": {
+        "shape": "egg_shaped",
+        "avg_length_cm": 8.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 100,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.75
+    },
+    "Tamarind": {
+        "shape": "pod",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 2.0,
+        "avg_weight_grams": 30,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.50
+    },
+    "Tangelo": {
+        "shape": "spherical",
+        "avg_diameter_cm": 9.0,
+        "avg_weight_grams": 200,
+        "size_range": [7.0, 11.0],
+        "form_factor": 0.95
+    },
+    "Tangerine": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 100,
+        "size_range": [6.0, 9.0],
+        "form_factor": 0.95
+    },
+    "Taro": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 800,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.85
+    },
+    "Thyme": {
+        "shape": "tiny_leaves",
+        "avg_height_cm": 15.0,
+        "avg_weight_grams": 10,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.20
+    },
+    "Tomatillo": {
+        "shape": "spherical",
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 50,
+        "size_range": [4.0, 6.0],
+        "form_factor": 0.90
+    },
+    "Tomato": {
+        "shape": "spherical",
+        "avg_diameter_cm": 7.0,
+        "avg_weight_grams": 120,
+        "size_range": [5.0, 10.0],
+        "form_factor": 0.95
+    },
+    "Truffle": {
+        "shape": "irregular_lump",
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 50,
+        "size_range": [3.0, 8.0],
+        "form_factor": 0.50
+    },
+    "Turnip": {
+        "shape": "spherical_root",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 200,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.85
+    },
+    "Ugli Fruit": {
+        "shape": "irregular_spherical",
+        "avg_diameter_cm": 12.0,
+        "avg_weight_grams": 400,
+        "size_range": [10.0, 15.0],
+        "form_factor": 0.80
+    },
+    "Victoria Plum": {
+        "shape": "oval",
+        "avg_length_cm": 6.0,
+        "avg_diameter_cm": 5.0,
+        "avg_weight_grams": 80,
+        "size_range": [5.0, 7.0],
+        "form_factor": 0.85
+    },
+    "Walnut": {
+        "shape": "brain_shaped",
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 10,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.70
+    },
+    "Wasabi": {
+        "shape": "rhizome",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 3.0,
+        "avg_weight_grams": 100,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.55
+    },
+    "Water Chestnut": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 4.0,
+        "avg_weight_grams": 30,
+        "size_range": [3.0, 5.0],
+        "form_factor": 0.85
+    },
+    "Watercress": {
+        "shape": "small_leafy",
+        "avg_length_cm": 15.0,
+        "avg_weight_grams": 20,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.20
+    },
+    "Watermelon": {
+        "shape": "large_spherical",
+        "avg_diameter_cm": 25.0,
+        "avg_weight_grams": 8000,
+        "size_range": [20.0, 35.0],
+        "form_factor": 0.90
+    },
+    "Wax Bean": {
+        "shape": "straight_pod",
+        "avg_length_cm": 15.0,
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 10,
+        "size_range": [10.0, 20.0],
+        "form_factor": 0.40
+    },
+    "White Currant": {
+        "shape": "small_spherical",
+        "avg_diameter_cm": 1.0,
+        "avg_weight_grams": 1,
+        "size_range": [0.8, 1.2],
+        "form_factor": 0.90
+    },
+    "Winter Melon": {
+        "shape": "large_oval",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 20.0,
+        "avg_weight_grams": 5000,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.80
+    },
+    "Winter Squash": {
+        "shape": "irregular",
+        "avg_diameter_cm": 15.0,
+        "avg_weight_grams": 1200,
+        "size_range": [12.0, 20.0],
+        "form_factor": 0.75
+    },
+    "Yam": {
+        "shape": "cylindrical_root",
+        "avg_length_cm": 30.0,
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 800,
+        "size_range": [25.0, 40.0],
+        "form_factor": 0.70
+    },
+    "Yellow Onion": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Yuzu": {
+        "shape": "spherical",
+        "avg_diameter_cm": 8.0,
+        "avg_weight_grams": 150,
+        "size_range": [6.0, 10.0],
+        "form_factor": 0.90
+    },
+    "Zucchini": {
+        "shape": "cylindrical",
+        "avg_length_cm": 20.0,
+        "avg_diameter_cm": 6.0,
+        "avg_weight_grams": 300,
+        "size_range": [15.0, 25.0],
+        "form_factor": 0.75
+    }
+}
