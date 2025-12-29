@@ -144,8 +144,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Authors
 
-- **SALMA LIDAME* - *AI Engineer*
-- **NADA SABER* - *DATA ENGINEER*
+- **SALMA LIDAME* - *AI Engineer**
+- **NADA SABER* - *DATA ENGINEER**
 
 ---
 
