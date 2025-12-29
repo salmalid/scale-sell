@@ -1,6 +1,6 @@
 """
 FastAPI Backend for Fruit Recognition Checkout System
-Using Google Gemini API for classification
+Using our finetuned MobileNetV2 model for classification plus a call for the Google Gemini API.
 """
 
 from fastapi import FastAPI, File, UploadFile, HTTPException
