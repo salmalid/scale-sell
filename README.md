@@ -10,40 +10,40 @@
 
 ---
 
-## 📖 About
+##  About
 
 **Scale-Sell** is an intelligent checkout system designed for supermarkets in Morocco. It uses Google Gemini AI and computer vision to automatically identify fruits and vegetables, estimate their weight, and calculate prices in Moroccan Dirhams (DH/kg).
 
-### 🎯 Key Highlights
+### Key Highlights
 
-- 🤖 **AI-Powered Classification** 
-- ⚖️ **Smart Weight Estimation** - Combines AI analysis with computer vision for precise weight calculation
-- 🎨 **K-means Segmentation** - Advanced image segmentation for fruit isolation
-- 💰 **Real-time Pricing** - Instant price calculation based on weight and market rates
+-  **AI-Powered Classification** 
+-  **Smart Weight Estimation** - Combines AI analysis with computer vision for precise weight calculation
+-  **K-means Segmentation** - Advanced image segmentation for fruit isolation
+-  **Real-time Pricing** - Instant price calculation based on weight and market rates
 - 🇲🇦 **Morocco-Specific** - Prices in Moroccan Dirhams with local market data
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Backend (FastAPI)
-- ✅ **loooot of Fruit/Vegetable Classes** - Comprehensive classification model
-- ✅ **Gemini AI Integration** - Advanced vision-based fruit recognition
-- ✅ **Weight Estimation** - Multi-method weight calculation (AI + CV)
-- ✅ **Image Segmentation** - K-means clustering for fruit isolation
-- ✅ **RESTful API** - Well-documented endpoints with Pydantic validation
-- ✅ **Real-time Processing** - Fast inference and response times
+-  **loooot of Fruit/Vegetable Classes** - Comprehensive classification model
+-  **Gemini AI Integration** - Advanced vision-based fruit recognition
+-  **Weight Estimation** - Multi-method weight calculation (AI + CV)
+-  **Image Segmentation** - K-means clustering for fruit isolation
+-  **RESTful API** - Well-documented endpoints with Pydantic validation
+-  **Real-time Processing** - Fast inference and response times
 
 ### Frontend (React + TypeScript)
-- ✅ **Camera Integration** - Live camera feed for fruit scanning
-- ✅ **Shopping Cart** - Add multiple items and manage quantities
-- ✅ **Real-time Preview** - Instant classification results
-- ✅ **Responsive Design** - Works on desktop and mobile devices
-- ✅ **Modern UI** - Built with shadcn/ui and Tailwind CSS
+-  **Camera Integration** - Live camera feed for fruit scanning
+-  **Shopping Cart** - Add multiple items and manage quantities
+-  **Real-time Preview** - Instant classification results
+-  **Responsive Design** - Works on desktop and mobile devices
+-  **Modern UI** - Built with shadcn/ui and Tailwind CSS
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 scale-sell/
@@ -74,7 +74,7 @@ scale-sell/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -129,7 +129,7 @@ The frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -142,14 +142,14 @@ Contributions are welcome! Please follow these steps:
 ---
 
 
-## 👥 Authors
+##  Authors
 
 - **SALMA LIDAME* - *AI Engineer**
 - **NADA SABER* - *DATA ENGINEER**
 
 ---
 
-## 📞 Support
+##  Support
 
 For support, email emadilsalma@gmail.com.
 
@@ -157,8 +157,6 @@ For support, email emadilsalma@gmail.com.
 
 <div align="center">
 
-**Made with ❤️ for a Computer Vision class Project at ENSA Eljadida**
-
-⭐ Star this repo if you find it helpful!
+**Built for a Computer Vision class Project at ENSA Eljadida**
 
 </div>
